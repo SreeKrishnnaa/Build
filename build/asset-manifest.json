@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c10cae9f.css",
+    "main.js": "/static/js/main.a11d74aa.js",
+    "static/js/453.c325b763.chunk.js": "/static/js/453.c325b763.chunk.js",
+    "static/media/generalservice.jpg": "/static/media/generalservice.84a610b62d30f443ff02.jpg",
+    "static/media/oilchange.jpg": "/static/media/oilchange.beea75acda0dbba6d406.jpg",
+    "static/media/bike wash.jpg": "/static/media/bike wash.de9e915b5f69948cc96d.jpg",
+    "index.html": "/index.html",
+    "main.c10cae9f.css.map": "/static/css/main.c10cae9f.css.map",
+    "main.a11d74aa.js.map": "/static/js/main.a11d74aa.js.map",
+    "453.c325b763.chunk.js.map": "/static/js/453.c325b763.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c10cae9f.css",
+    "static/js/main.a11d74aa.js"
+  ]
+}
